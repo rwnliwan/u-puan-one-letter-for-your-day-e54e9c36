@@ -57,4 +57,5 @@
 - NOT submitted by builder. Coordinator runs check/submit. Blind round 1 at 2026-11-24T05:27:36Z (13:27 WITA) — submit before then to move up.
 
 ## Commit record
-- (filled in after commit — see below).
+- Builder commit: `c76fa9e3f0dbe0c396cf012e7bfad0f6684b9e40` — "One Letter for Your Day entry: U for unhinged" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- GitHub repo: https://github.com/rwnliwan/u-puan-one-letter-for-your-day-e54e9c36 (public, created after the 2026-11-23T21:28:55Z opening; push + About/topics recorded below).
