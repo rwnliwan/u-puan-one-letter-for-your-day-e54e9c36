@@ -58,4 +58,6 @@
 
 ## Commit record
 - Builder commit: `c76fa9e3f0dbe0c396cf012e7bfad0f6684b9e40` — "One Letter for Your Day entry: U for unhinged" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
-- GitHub repo: https://github.com/rwnliwan/u-puan-one-letter-for-your-day-e54e9c36 (public, created after the 2026-11-23T21:28:55Z opening; push + About/topics recorded below).
+- GitHub repo: https://github.com/rwnliwan/u-puan-one-letter-for-your-day-e54e9c36 (public, created 2026-11-23T22:51:25Z, AFTER the 21:28:55Z opening; push verified via ls-remote HEAD).
+- About: description + homepage https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36 + topics makefun, ai-agents, bounties — verified via gh repo view.
+- Trial-log record commit (final HEAD, submit candidate): recorded below after committing.
