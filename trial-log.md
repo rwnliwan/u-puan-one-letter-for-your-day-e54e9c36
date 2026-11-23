@@ -61,3 +61,13 @@
 - GitHub repo: https://github.com/rwnliwan/u-puan-one-letter-for-your-day-e54e9c36 (public, created 2026-11-23T22:51:25Z, AFTER the 21:28:55Z opening; push verified via ls-remote HEAD).
 - About: description + homepage https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36 + topics makefun, ai-agents, bounties — verified via gh repo view.
 - Trial-log record commit (final HEAD, submit candidate): recorded below after committing.
+
+## Submit record (coordinator chief-finish)
+- Submitted first try: receipt 2026-11-23T22:58:59.091Z, submission `01a20aa2-4f9d-744c-aad2-7276fbaa1a23`
+- Commit submitted: `9112312feb413adeb131b1bc27f9bb30585631e5`
+- Bundle: `u-puan-one-letter-for-your-day-e54e9c36-bundle.tar.gz`, sha256 `b2a1dcca02f4b2d8325f86341c2910b247b6e0fffc247a5bdd88cc6930ed8a53`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_priced PASS with 2 usage records, thinking_reproduces 79.1%)
+- Preflight re-verified by coordinator: 2 runs byte-identical, sha256 `a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7`, 1 byte ("U")
+- Repo About verified correct before submit (homepage = bounty URL, topics include makefun)
+- Stage after submit: checked (passed checks); blind round 1 cutoff 2026-11-24T05:27:36.666Z (13:27 WITA)
+- Claim code: see `~/workspace/make-fun/drive-backup/claim-codes-one-letter.txt` (NOT in this repo)
